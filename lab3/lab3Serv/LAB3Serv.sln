@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB3Serv", "LAB3Serv\LAB3Serv.csproj", "{518C62E0-7945-49F0-BBAC-7C50BF17465A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB3Cli", "LAB3Cli\LAB3Cli.csproj", "{76C297DB-4A85-452B-9474-993B407F2939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518C62E0-7945-49F0-BBAC-7C50BF17465A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518C62E0-7945-49F0-BBAC-7C50BF17465A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518C62E0-7945-49F0-BBAC-7C50BF17465A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518C62E0-7945-49F0-BBAC-7C50BF17465A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C297DB-4A85-452B-9474-993B407F2939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C297DB-4A85-452B-9474-993B407F2939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C297DB-4A85-452B-9474-993B407F2939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C297DB-4A85-452B-9474-993B407F2939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD36E19-B8B6-44D1-936F-30C3A0569FDF}
+	EndGlobalSection
+EndGlobal
